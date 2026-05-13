@@ -53,12 +53,12 @@ JSON payloads.
 
 **Terminology Mapping**
 Uses Hermes API to resolve SNOMED CT parent/child 
-relationships and map to ICD-10 codes — ensuring semantic 
+relationships and map to ICD-10 codes - ensuring semantic 
 accuracy across systems.
 
 **HL7 v2 Interoperability**
 Converts FHIR JSON to HL7 v2 ADT^A01 messages including 
-MSH, PID, PV1, and DG1 segments — supporting legacy EHR 
+MSH, PID, PV1, and DG1 segments - supporting legacy EHR 
 systems that haven't transitioned to FHIR.
 
 **OAuth 2.0 Security**
@@ -118,7 +118,7 @@ matplotlib
 
 ## Author
 
-**Poojitha Garlapati** — API Integration Specialist & Data Extractor  
+**Poojitha Garlapati** - API Integration Specialist & Data Extractor  
 PharmD + M.S. Health Informatics, Indiana University Indianapolis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/garlapati-poojitha)
